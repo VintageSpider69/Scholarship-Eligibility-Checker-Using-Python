@@ -11,5 +11,7 @@ A minimal, clean desktop application built using Python and Tkinter to manage st
 ✅ Simple, intuitive UI with rounded borders and a clean aesthetic
 
 📷 Preview
+
+
 ![image](https://github.com/user-attachments/assets/1769512c-9849-410b-8a75-28e7aec39b1b)
 ![image](https://github.com/user-attachments/assets/169a977b-4cf0-4eac-b100-64766d345be5)
