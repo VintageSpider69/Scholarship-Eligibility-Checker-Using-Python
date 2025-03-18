@@ -1,16 +1,16 @@
-🎓 Scholarship Eligibility Checker
+#🎓 Scholarship Eligibility Checker  <!-- H1 (Largest) -->
 A minimal, clean desktop application built using Python and Tkinter to manage student records and check scholarship eligibility based on GPA.
 
 📝 This project was developed as part of a module completion requirement.
 
-🚀 Features
+##🚀 Features <!-- H2 (Slightly Smaller) -->
 ✅ Add student details (Name, Roll No, Branch, GPA)
 ✅ Check eligibility by filtering students based on a minimum GPA
 ✅ View all students in a structured table
 ✅ Remove students from the list
 ✅ Simple, intuitive UI with rounded borders and a clean aesthetic
 
-📷 Preview
+##📷 Preview <!-- H2 (Slightly Smaller) -->
 
 
 ![image](https://github.com/user-attachments/assets/1769512c-9849-410b-8a75-28e7aec39b1b)
