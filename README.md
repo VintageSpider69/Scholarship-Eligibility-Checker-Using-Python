@@ -25,8 +25,11 @@ A **minimal, clean** desktop application built using **Python and Tkinter** to m
 ```bash
 git clone https://github.com/yourusername/Scholarship-Checker.git
 cd Scholarship-Checker
+```
 
 2️⃣ Install dependencies (Tkinter is built into Python, so no extra installs needed)
+
 3️⃣ Run the program
 ```bash
 python3 scholar_check.py
+```
